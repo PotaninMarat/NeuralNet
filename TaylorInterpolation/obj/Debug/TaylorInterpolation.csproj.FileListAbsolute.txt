@@ -1,0 +1,26 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\TaylorInterpolation.exe.config
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\TaylorInterpolation.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\TaylorInterpolation.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\obj\Debug\TaylorInterpolation.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\obj\Debug\TaylorInterpolation.Form1.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\obj\Debug\TaylorInterpolation.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\obj\Debug\TaylorInterpolation.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\obj\Debug\TaylorInterpolation.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\obj\Debug\TaylorInterpolation.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TaylorInterpolation\bin\Debug\AI.MathMod.xml

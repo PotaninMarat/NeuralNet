@@ -1,0 +1,26 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\TestConvLayer.exe.config
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\TestConvLayer.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\TestConvLayer.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\obj\Debug\TestConvLayer.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\obj\Debug\TestConvLayer.Form1.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\obj\Debug\TestConvLayer.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\obj\Debug\TestConvLayer.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\obj\Debug\TestConvLayer.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\obj\Debug\TestConvLayer.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestConvLayer\bin\Debug\AI.MathMod.xml

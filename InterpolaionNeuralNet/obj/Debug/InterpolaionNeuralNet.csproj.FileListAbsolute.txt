@@ -1,0 +1,26 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\InterpolaionNeuralNet.exe.config
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\InterpolaionNeuralNet.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\InterpolaionNeuralNet.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\AI.MathMod.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\obj\Debug\InterpolaionNeuralNet.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\obj\Debug\InterpolaionNeuralNet.Form1.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\obj\Debug\InterpolaionNeuralNet.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\obj\Debug\InterpolaionNeuralNet.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\obj\Debug\InterpolaionNeuralNet.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\InterpolaionNeuralNet\obj\Debug\InterpolaionNeuralNet.pdb

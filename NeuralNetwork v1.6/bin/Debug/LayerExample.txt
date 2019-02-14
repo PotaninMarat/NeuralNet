@@ -1,0 +1,41 @@
+        public Tensor4 input { get; set; }
+
+        public Tensor4 output { get; set; }
+
+        public Tensor4[] weights { get; set; }
+
+        public Tensor4 drop { get; set; }
+
+        public Tensor4 delts { get; set; }
+
+        public Tensor4[] grads { get; set; }
+
+        public Tensor4 CalcOutp(Tensor4 inp)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Tensor4 CalcDelts(ILayer nextLayer)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Tensor4 CalcGrads(double norm, double moment, double lambda)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Tensor4 Train()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Tensor4 RandomWeights(Random rand)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Tensor4 SetWeights(Tensor4[] weights)
+        {
+            throw new NotImplementedException();
+        }

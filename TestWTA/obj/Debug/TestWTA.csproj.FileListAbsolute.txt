@@ -1,0 +1,26 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\TestWTA.exe.config
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\TestWTA.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\TestWTA.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\obj\Debug\TestWTA.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\obj\Debug\TestWTA.Form1.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\obj\Debug\TestWTA.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\obj\Debug\TestWTA.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\obj\Debug\TestWTA.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\obj\Debug\TestWTA.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestWTA\bin\Debug\AI.MathMod.xml

@@ -1,0 +1,26 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\TestKernel.exe.config
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\TestKernel.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\TestKernel.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\obj\Debug\TestKernel.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\obj\Debug\TestKernel.Form1.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\obj\Debug\TestKernel.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\obj\Debug\TestKernel.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\obj\Debug\TestKernel.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\obj\Debug\TestKernel.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\TestKernel\bin\Debug\AI.MathMod.xml

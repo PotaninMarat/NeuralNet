@@ -1,0 +1,36 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\obj\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\obj\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\NeuralNetwork v1.6.XML
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\AI.MathMod.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\NeuralNetwork v1.6.XML
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\bin\Debug\AI.MathMod.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\obj\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\Public\NeuralNetwork v1.6\NeuralNetwork v1.6\obj\Debug\NeuralNetwork v1.6.pdb
